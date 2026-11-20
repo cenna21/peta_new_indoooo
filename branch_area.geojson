@@ -1,0 +1,815 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "ALAM SUTERA",
+    "AREA": "JABODETABEK - JABAR",
+    "marker-color": "#e41a1c"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.65,
+     -6.223
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "BANDUNG",
+    "AREA": "JABODETABEK - JABAR",
+    "marker-color": "#e41a1c"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.61,
+     -6.915
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "BEKASI",
+    "AREA": "JABODETABEK - JABAR",
+    "marker-color": "#e41a1c"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.99,
+     -6.238
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "BOGOR",
+    "AREA": "JABODETABEK - JABAR",
+    "marker-color": "#e41a1c"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.806,
+     -6.595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "CENGKARENG",
+    "AREA": "JABODETABEK - JABAR",
+    "marker-color": "#e41a1c"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.738,
+     -6.15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "CIBUBUR",
+    "AREA": "JABODETABEK - JABAR",
+    "marker-color": "#e41a1c"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.896,
+     -6.37
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "CIPUTAT",
+    "AREA": "JABODETABEK - JABAR",
+    "marker-color": "#e41a1c"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.749,
+     -6.318
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "JATINEGARA",
+    "AREA": "JABODETABEK - JABAR",
+    "marker-color": "#e41a1c"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.87,
+     -6.215
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "KARAWANG",
+    "AREA": "JABODETABEK - JABAR",
+    "marker-color": "#e41a1c"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.307,
+     -6.302
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "KELAPA GADING",
+    "AREA": "JABODETABEK - JABAR",
+    "marker-color": "#e41a1c"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.905,
+     -6.156
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "CIREBON",
+    "AREA": "JAWA TENGAH",
+    "marker-color": "#377eb8"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     108.557,
+     -6.732
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "KUDUS",
+    "AREA": "JAWA TENGAH",
+    "marker-color": "#377eb8"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.84,
+     -6.805
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "PURWOKERTO",
+    "AREA": "JAWA TENGAH",
+    "marker-color": "#377eb8"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     109.234,
+     -7.421
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "SEMARANG",
+    "AREA": "JAWA TENGAH",
+    "marker-color": "#377eb8"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.42,
+     -6.967
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "SOLO",
+    "AREA": "JAWA TENGAH",
+    "marker-color": "#377eb8"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.824,
+     -7.567
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "SOLO-SUKOHARJO",
+    "AREA": "JAWA TENGAH",
+    "marker-color": "#377eb8"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.8,
+     -7.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "SUKOHARJO",
+    "AREA": "JAWA TENGAH",
+    "marker-color": "#377eb8"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.857,
+     -7.682
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "TEGAL",
+    "AREA": "JAWA TENGAH",
+    "marker-color": "#377eb8"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     109.14,
+     -6.869
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "YOGYAKARTA",
+    "AREA": "JAWA TENGAH",
+    "marker-color": "#377eb8"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.365,
+     -7.796
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "BANYUWANGI",
+    "AREA": "JAWA TIMUR & BALI",
+    "marker-color": "#4daf4a"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.369,
+     -8.219
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "DENPASAR",
+    "AREA": "JAWA TIMUR & BALI",
+    "marker-color": "#4daf4a"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.217,
+     -8.65
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "GRESIK",
+    "AREA": "JAWA TIMUR & BALI",
+    "marker-color": "#4daf4a"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.654,
+     -7.155
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "KUPANG",
+    "AREA": "JAWA TIMUR & BALI",
+    "marker-color": "#4daf4a"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.607,
+     -10.177
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "MADIUN",
+    "AREA": "JAWA TIMUR & BALI",
+    "marker-color": "#4daf4a"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.523,
+     -7.63
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "MALANG",
+    "AREA": "JAWA TIMUR & BALI",
+    "marker-color": "#4daf4a"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.63,
+     -7.98
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "MATARAM",
+    "AREA": "JAWA TIMUR & BALI",
+    "marker-color": "#4daf4a"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.117,
+     -8.583
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "MOJOKERTO",
+    "AREA": "JAWA TIMUR & BALI",
+    "marker-color": "#4daf4a"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.434,
+     -7.472
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "SURABAYA BARAT",
+    "AREA": "JAWA TIMUR & BALI",
+    "marker-color": "#4daf4a"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.65,
+     -7.265
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "SURABAYA TIMUR",
+    "AREA": "JAWA TIMUR & BALI",
+    "marker-color": "#4daf4a"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.79,
+     -7.29
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "BALIKPAPAN",
+    "AREA": "KALIMANTAN",
+    "marker-color": "#984ea3"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.831,
+     -1.238
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "BANJARMASIN",
+    "AREA": "KALIMANTAN",
+    "marker-color": "#984ea3"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.59,
+     -3.32
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "BERAU",
+    "AREA": "KALIMANTAN",
+    "marker-color": "#984ea3"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.48,
+     2.15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "KETAPANG",
+    "AREA": "KALIMANTAN",
+    "marker-color": "#984ea3"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     109.98,
+     -1.83
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "PALANGKARAYA",
+    "AREA": "KALIMANTAN",
+    "marker-color": "#984ea3"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.91,
+     -2.21
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "PONTIANAK",
+    "AREA": "KALIMANTAN",
+    "marker-color": "#984ea3"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     109.34,
+     -0.026
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "SAMARINDA",
+    "AREA": "KALIMANTAN",
+    "marker-color": "#984ea3"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.154,
+     -0.502
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "SAMPIT",
+    "AREA": "KALIMANTAN",
+    "marker-color": "#984ea3"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.95,
+     -2.53
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "SANGATTA",
+    "AREA": "KALIMANTAN",
+    "marker-color": "#984ea3"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.54,
+     0.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "KENDARI",
+    "AREA": "SULAWESI",
+    "marker-color": "#ff7f00"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.51,
+     -3.97
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "MAKASSAR",
+    "AREA": "SULAWESI",
+    "marker-color": "#ff7f00"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.412,
+     -5.148
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "MANADO",
+    "AREA": "SULAWESI",
+    "marker-color": "#ff7f00"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.842,
+     1.475
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "MAROS",
+    "AREA": "SULAWESI",
+    "marker-color": "#ff7f00"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.57,
+     -5.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "PALOPO",
+    "AREA": "SULAWESI",
+    "marker-color": "#ff7f00"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.2,
+     -2.99
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "PALU",
+    "AREA": "SULAWESI",
+    "marker-color": "#ff7f00"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.87,
+     -0.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "BANDAR LAMPUNG",
+    "AREA": "SUMATERA",
+    "marker-color": "#a65628"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     105.262,
+     -5.429
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "BATAM",
+    "AREA": "SUMATERA",
+    "marker-color": "#a65628"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     104.03,
+     1.05
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "DURI",
+    "AREA": "SUMATERA",
+    "marker-color": "#a65628"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     101.1,
+     1.24
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "JAMBI",
+    "AREA": "SUMATERA",
+    "marker-color": "#a65628"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.61,
+     -1.61
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "MEDAN",
+    "AREA": "SUMATERA",
+    "marker-color": "#a65628"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     98.67,
+     3.595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "PADANG",
+    "AREA": "SUMATERA",
+    "marker-color": "#a65628"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     100.354,
+     -0.95
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "PALEMBANG",
+    "AREA": "SUMATERA",
+    "marker-color": "#a65628"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     104.746,
+     -2.976
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "PANAM",
+    "AREA": "SUMATERA",
+    "marker-color": "#a65628"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     101.38,
+     0.47
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "PANGKAL PINANG",
+    "AREA": "SUMATERA",
+    "marker-color": "#a65628"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.11,
+     -2.13
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "BRANCH": "PEKANBARU",
+    "AREA": "SUMATERA",
+    "marker-color": "#a65628"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     101.45,
+     0.51
+    ]
+   }
+  }
+ ]
+}
