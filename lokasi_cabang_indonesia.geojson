@@ -1,0 +1,838 @@
+{
+  "type": "FeatureCollection",
+  "name": "lokasi_cabang_berdasarkan_area",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "ALAM SUTERA",
+        "area": "JABODETABEK - JABAR",
+        "latitude": -6.223,
+        "longitude": 106.651
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.651,
+          -6.223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "BALIKPAPAN",
+        "area": "KALIMANTAN",
+        "latitude": -1.2654,
+        "longitude": 116.8312
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8312,
+          -1.2654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "BANDAR LAMPUNG",
+        "area": "SUMATERA",
+        "latitude": -5.3971,
+        "longitude": 105.2668
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2668,
+          -5.3971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "BANDUNG",
+        "area": "JABODETABEK - JABAR",
+        "latitude": -6.9175,
+        "longitude": 107.6191
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6191,
+          -6.9175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "BANJARMASIN",
+        "area": "KALIMANTAN",
+        "latitude": -3.3194,
+        "longitude": 114.5908
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.5908,
+          -3.3194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "BANYUWANGI",
+        "area": "JAWA TIMUR & BALI",
+        "latitude": -8.2192,
+        "longitude": 114.3691
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3691,
+          -8.2192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "BATAM",
+        "area": "SUMATERA",
+        "latitude": 1.1301,
+        "longitude": 104.0529
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0529,
+          1.1301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "BEKASI",
+        "area": "JABODETABEK - JABAR",
+        "latitude": -6.2383,
+        "longitude": 106.9756
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9756,
+          -6.2383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "BERAU",
+        "area": "KALIMANTAN",
+        "latitude": 2.1531,
+        "longitude": 117.497
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.497,
+          2.1531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "BOGOR",
+        "area": "JABODETABEK - JABAR",
+        "latitude": -6.5971,
+        "longitude": 106.806
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.806,
+          -6.5971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "CENGKARENG",
+        "area": "JABODETABEK - JABAR",
+        "latitude": -6.145,
+        "longitude": 106.735
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.735,
+          -6.145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "CIBUBUR",
+        "area": "JABODETABEK - JABAR",
+        "latitude": -6.37,
+        "longitude": 106.883
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.883,
+          -6.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "CIPUTAT",
+        "area": "JABODETABEK - JABAR",
+        "latitude": -6.34,
+        "longitude": 106.74
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.74,
+          -6.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "CIREBON",
+        "area": "JAWA TENGAH",
+        "latitude": -6.7063,
+        "longitude": 108.557
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.557,
+          -6.7063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "DENPASAR",
+        "area": "JAWA TIMUR & BALI",
+        "latitude": -8.6705,
+        "longitude": 115.2126
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2126,
+          -8.6705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "DURI",
+        "area": "SUMATERA",
+        "latitude": 1.238,
+        "longitude": 101.156
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.156,
+          1.238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "GRESIK",
+        "area": "JAWA TIMUR & BALI",
+        "latitude": -7.1539,
+        "longitude": 112.6561
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6561,
+          -7.1539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "JAMBI",
+        "area": "SUMATERA",
+        "latitude": -1.6101,
+        "longitude": 103.6131
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6131,
+          -1.6101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "JATINEGARA",
+        "area": "JABODETABEK - JABAR",
+        "latitude": -6.215,
+        "longitude": 106.87
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.87,
+          -6.215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "KARAWANG",
+        "area": "JABODETABEK - JABAR",
+        "latitude": -6.3015,
+        "longitude": 107.302
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.302,
+          -6.3015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "KELAPA GADING",
+        "area": "JABODETABEK - JABAR",
+        "latitude": -6.158,
+        "longitude": 106.906
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.906,
+          -6.158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "KENDARI",
+        "area": "SULAWESI",
+        "latitude": -3.9985,
+        "longitude": 122.5129
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.5129,
+          -3.9985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "KETAPANG",
+        "area": "KALIMANTAN",
+        "latitude": -1.8675,
+        "longitude": 109.9725
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.9725,
+          -1.8675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "KUDUS",
+        "area": "JAWA TENGAH",
+        "latitude": -6.8048,
+        "longitude": 110.8405
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.8405,
+          -6.8048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "KUPANG",
+        "area": "JAWA TIMUR & BALI",
+        "latitude": -10.1772,
+        "longitude": 123.607
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.607,
+          -10.1772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "MADIUN",
+        "area": "JAWA TIMUR & BALI",
+        "latitude": -7.6298,
+        "longitude": 111.5239
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.5239,
+          -7.6298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "MAKASSAR",
+        "area": "SULAWESI",
+        "latitude": -5.1477,
+        "longitude": 119.4327
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.4327,
+          -5.1477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "MALANG",
+        "area": "JAWA TIMUR & BALI",
+        "latitude": -7.9666,
+        "longitude": 112.6326
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6326,
+          -7.9666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "MANADO",
+        "area": "SULAWESI",
+        "latitude": 1.4748,
+        "longitude": 124.8421
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8421,
+          1.4748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "MAROS",
+        "area": "SULAWESI",
+        "latitude": -4.986,
+        "longitude": 119.572
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.572,
+          -4.986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "MATARAM",
+        "area": "JAWA TIMUR & BALI",
+        "latitude": -8.5833,
+        "longitude": 116.1167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1167,
+          -8.5833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "MEDAN",
+        "area": "SUMATERA",
+        "latitude": 3.5952,
+        "longitude": 98.6722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6722,
+          3.5952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "MOJOKERTO",
+        "area": "JAWA TIMUR & BALI",
+        "latitude": -7.4722,
+        "longitude": 112.4338
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.4338,
+          -7.4722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "PADANG",
+        "area": "SUMATERA",
+        "latitude": -0.9471,
+        "longitude": 100.4172
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4172,
+          -0.9471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "PALANGKARAYA",
+        "area": "KALIMANTAN",
+        "latitude": -2.2161,
+        "longitude": 113.9135
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9135,
+          -2.2161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "PALEMBANG",
+        "area": "SUMATERA",
+        "latitude": -2.9761,
+        "longitude": 104.7754
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7754,
+          -2.9761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "PALOPO",
+        "area": "SULAWESI",
+        "latitude": -2.9925,
+        "longitude": 120.1969
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1969,
+          -2.9925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "PALU",
+        "area": "SULAWESI",
+        "latitude": -0.8917,
+        "longitude": 119.8707
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.8707,
+          -0.8917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "PANAM",
+        "area": "SUMATERA",
+        "latitude": 0.465,
+        "longitude": 101.356
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.356,
+          0.465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "PANGKAL PINANG",
+        "area": "SUMATERA",
+        "latitude": -2.1291,
+        "longitude": 106.113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.113,
+          -2.1291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "PEKANBARU",
+        "area": "SUMATERA",
+        "latitude": 0.5071,
+        "longitude": 101.4478
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4478,
+          0.5071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "PONTIANAK",
+        "area": "KALIMANTAN",
+        "latitude": -0.0263,
+        "longitude": 109.3425
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.3425,
+          -0.0263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "PURWOKERTO",
+        "area": "JAWA TENGAH",
+        "latitude": -7.4243,
+        "longitude": 109.2393
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.2393,
+          -7.4243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "SAMARINDA",
+        "area": "KALIMANTAN",
+        "latitude": -0.5022,
+        "longitude": 117.1536
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1536,
+          -0.5022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "SAMPIT",
+        "area": "KALIMANTAN",
+        "latitude": -2.5333,
+        "longitude": 112.95
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.95,
+          -2.5333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "SANGATTA",
+        "area": "KALIMANTAN",
+        "latitude": 0.51,
+        "longitude": 117.54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.54,
+          0.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "SEMARANG",
+        "area": "JAWA TENGAH",
+        "latitude": -6.9667,
+        "longitude": 110.4167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4167,
+          -6.9667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "SOLO-SUKOHARJO",
+        "area": "JAWA TENGAH",
+        "latitude": -7.5666,
+        "longitude": 110.8283
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.8283,
+          -7.5666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "SURABAYA BARAT",
+        "area": "JAWA TIMUR & BALI",
+        "latitude": -7.265,
+        "longitude": 112.68
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.68,
+          -7.265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "SURABAYA TIMUR",
+        "area": "JAWA TIMUR & BALI",
+        "latitude": -7.29,
+        "longitude": 112.78
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.78,
+          -7.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "TEGAL",
+        "area": "JAWA TENGAH",
+        "latitude": -6.8694,
+        "longitude": 109.1402
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.1402,
+          -6.8694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "branch": "YOGYAKARTA",
+        "area": "JAWA TENGAH",
+        "latitude": -7.7956,
+        "longitude": 110.3695
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      }
+    }
+  ]
+}
